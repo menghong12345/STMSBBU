@@ -2,4 +2,4 @@
 
 First small project using Laravel and php to manage student
 
-## By Oeng_Outeab
+## By Khenghour MengHong
